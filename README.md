@@ -5,8 +5,7 @@
 **Kelas** : Teknik Informatika A  
 **Topik** : Bab 11 - Special Matrices dan Gauss-Seidel  
 
-Repository ini berisi penyelesaian soal **11.1 sampai 11.28** menggunakan bahasa pemrograman **Python**. Beberapa soal pada buku menyebutkan MATLAB atau Mathcad, tetapi pada tugas ini seluruh implementasi dibuat menggunakan Python sesuai instruksi pengerjaan.
-
+Repository ini berisi penyelesaian soal **11.1 sampai 11.28** menggunakan bahasa pemrograman **Python**. 
 ---
 
 ## Daftar Isi
@@ -932,10 +931,9 @@ Residual = 3.5527136788e-15
 
 1. Semua program dibuat menggunakan Python.
 2. Beberapa soal pada buku menyebut MATLAB atau Mathcad, tetapi pada tugas ini NumPy, SciPy, dan Matplotlib digunakan sebagai pengganti software numerik tersebut.
-3. Setiap file dibuat agar dapat dijalankan secara langsung tanpa `main()`.
-4. Hasil program diverifikasi menggunakan `numpy.linalg.solve`, residual, atau rekonstruksi matriks.
-5. Nilai residual yang sangat kecil seperti `1e-14` dianggap nol secara numerik karena keterbatasan floating point.
-6. Untuk metode iteratif seperti Gauss-Seidel dan Jacobi, hasil bisa berbeda sedikit dari solusi eksak karena iterasi dihentikan ketika error relatif sudah memenuhi toleransi.
+3. Hasil program diverifikasi menggunakan `numpy.linalg.solve`, residual, atau rekonstruksi matriks.
+4. Nilai residual yang sangat kecil seperti `1e-14` dianggap nol secara numerik karena keterbatasan floating point.
+5. Untuk metode iteratif seperti Gauss-Seidel dan Jacobi, hasil bisa berbeda sedikit dari solusi eksak karena iterasi dihentikan ketika error relatif sudah memenuhi toleransi.
 
 ---
 
