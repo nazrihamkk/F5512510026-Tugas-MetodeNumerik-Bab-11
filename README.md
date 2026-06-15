@@ -1,10 +1,10 @@
 # Tugas Metode Numerik - Bab 11: Special Matrices & Gauss-Seidel
 
-**Nama** : Nazril Ilham Kakame<br>
-**NIM** : F5512510026<br>
-**Kelas** : Teknik Informatika A<br>
+**Nama**        : Nazril Ilham Kakame<br>
+**NIM**         : F5512510026<br>
+**Kelas**       : Teknik Informatika A<br>
 **Mata Kuliah** : Metode Numerik<br>
-**Topik** : Bab 11 - Special Matrices dan Gauss-Seidel<br>
+**Topik**       : Bab 11 - Special Matrices dan Gauss-Seidel<br>
 
 Repository ini berisi penyelesaian soal **11.1 sampai 11.28** menggunakan bahasa pemrograman **Python**. 
 ---
