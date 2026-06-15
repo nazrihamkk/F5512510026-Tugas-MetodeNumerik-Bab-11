@@ -1,4 +1,4 @@
-# Tugas Metode Numerik
+# Tugas Metode Numerik - Bab 11: Special Matrices & Gauss-Seidel
 
 **Nama**  : Nazril Ilham Kakame  
 **NIM**   : F5512510026  
