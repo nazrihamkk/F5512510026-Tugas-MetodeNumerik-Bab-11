@@ -2,7 +2,7 @@
 
 **Nama**       : Nazril Ilham Kakame  
 **NIM**        : F5512510026  
-**Kelas**      : Teknik Informatika A  
+**Kelas**      : Teknik Informatika A
 **Mata Kuliah** : Metode Numerik
 **Topik** : Bab 11 - Special Matrices dan Gauss-Seidel  
 
